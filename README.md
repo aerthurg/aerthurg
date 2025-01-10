@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur 👋
 
-- 🔭 I’ve been coding mainly in Python and JavaScript for over 7 years.
+- 🔭 I’ve been coding mainly in Python and JavaScript for over 9 years.
 - :books: I'm a PhD Student in Computational Neuroscience at UNICAMP.
 - 🏗️ I’m a Signal Processing & Machine Learning Research Fellow at ITV-DS.
 - 🌱 I’m currently experimenting with Rust for Software Engineering and HPC.
