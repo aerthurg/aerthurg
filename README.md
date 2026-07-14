@@ -2,7 +2,7 @@
 
 #### A Software Engineer and PhD Researcher in AI & Signal Processing
 
-Software Engineer at <a href="https://healherai.com" target="new">Heal Her AI</a>; PhD Researcher at University of Campinas (UNICAMP);
+Software Engineer at <a href="https://healherai.com" target="blank">Heal Her AI</a>; PhD Researcher at University of Campinas (UNICAMP);
 
 - 🔭 I've been coding in `.rs`, `.cpp`, and `.py` for over 9 years.
 - 🌱 Currenly I'm engineering medtech systems and deploying AI models on AWS.
